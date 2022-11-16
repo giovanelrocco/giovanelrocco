@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Trabalhando com desenvolvimento web desde 2015.
+Working with web development since 2015.
 
 * 🌍  I'm based in Paraná, Brasil
 * ✉️  You can contact me at [giovanelr@gmail.com](mailto:giovanelr@gmail.com)

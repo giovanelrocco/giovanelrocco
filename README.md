@@ -8,8 +8,6 @@ Working with web development since 2015.
 
 * 🌍  I'm based in Paraná, Brasil
 * ✉️  You can contact me at [giovanelr@gmail.com](mailto:giovanelr@gmail.com)
-* 🚀  I'm currently working on [Trybe](http://betrybe.com.br)
-* 🧠  I'm learning Elixir and Phoenix
 
 <a href="https://www.twitter.com/giovanelrocco" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/giovanelrocco?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"

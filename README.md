@@ -1,4 +1,4 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Giovane
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Giovane
 ===============================================================================================================================
 
 Web Developer
@@ -9,9 +9,6 @@ Working with web development since 2015.
 * 🌍  I'm based in Paraná, Brasil
 * ✉️  You can contact me at [giovanelr@gmail.com](mailto:giovanelr@gmail.com)
 
-<a href="https://www.twitter.com/giovanelrocco" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/giovanelrocco?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">

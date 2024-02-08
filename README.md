@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cappta(https://www.cappta.com.br/)<br>🌱 I’m currently learning Becoming a Better Programmer(https://www.oreilly.com/library/view/becoming-a-better/9781491905562/)<br>🌍 I'm based in Paraná, Brasil
+🔭 I’m currently working on [Cappta](https://www.cappta.com.br/)<br>🌱 I’m currently learning [Becoming a Better Programmer](https://www.oreilly.com/library/view/becoming-a-better/9781491905562/)<br>🌍 I'm based in Paraná, Brasil
 
 
 ## 🌐 Socials:
